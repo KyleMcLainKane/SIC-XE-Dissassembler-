@@ -1,10 +1,8 @@
 # SICXE-Disassembler
-Master Folder - contains the most up to date code
-
-Archieve - contains out of date code 
+Project - contains the final code
 
 20200327_163632.jpg - Is the file dependencies
 
-FINAL - Is what we will turn in via edoras/BB
+TEST Files - It is the test files (.obj) and (.sym)
 
-SDD - https://docs.google.com/document/d/1hxVQ2zDntjXIpc-eikqlpzYOSeqEwyc5BhyBmxCXuSM/edit
+Software Design Document - https://docs.google.com/document/d/1hxVQ2zDntjXIpc-eikqlpzYOSeqEwyc5BhyBmxCXuSM/edit
